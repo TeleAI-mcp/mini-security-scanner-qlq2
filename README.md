@@ -1,2 +1,3 @@
-# mini-security-scanner-qlq2
+# Mini Security Scanner Qlq2
+
 A repository to test GitHub automation for issue management.
